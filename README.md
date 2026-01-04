@@ -1,6 +1,6 @@
 # Caesar Cipher (Python)
 
-A simple implementation of the **Caesar cipher** written in Python.
+A simple implementation of the **Caesar Cipher** written in Python.
 
 The project supports texxt encryption and decryption. It is intended for **educational purposes**, clean code practice, and as an exercise in basic cryptography and software design.
 
